@@ -1,0 +1,8 @@
+#Request
+float64[] angles
+
+---
+
+#Response
+geometry_msgs/Pose pose
+

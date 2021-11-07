@@ -1,0 +1,10 @@
+#Goal
+geometry_msgs/Pose goal_position
+
+---
+#Feedback
+geometry_msgs/Pose current_position
+
+---
+#Result
+bool success
