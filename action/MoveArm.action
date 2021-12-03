@@ -2,9 +2,11 @@
 geometry_msgs/Pose goal_position
 
 ---
+
+#Result
+bool success
+
+---
 #Feedback
 geometry_msgs/Pose current_position
 
----
-#Result
-bool success
